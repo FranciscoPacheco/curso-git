@@ -10,6 +10,7 @@ namespace ProjetoTestGib
             Console.WriteLine("Olá Mundo v2!!! ");
             Console.WriteLine("Olá Mundo v4 hoje!!! ");
             Console.WriteLine("Bom dia!!!");
+            Console.WriteLine("Bom dia!!!");
         }
     }
 }
